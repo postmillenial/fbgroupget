@@ -1,0 +1,6 @@
+groupget.py
+*.txt
+creds.cfg
+.fb_access_token
+.fbconsole
+*.pkl
